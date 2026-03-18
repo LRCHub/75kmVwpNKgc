@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Wet Dreamz",
+  "base_artist": "J. Cole",
+  "createdAt": "2026-03-18T19:29:09.100008Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Wet Dreamz",
+      "artist": "J. Cole",
+      "has_synced": true,
+      "path": "select/01_Wet_Dreamz_J._Cole.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Wet Dreamz [Explicit]",
+      "artist": "J. Cole",
+      "has_synced": true,
+      "path": "select/02_Wet_Dreamz_[Explicit]_J._Cole.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Wet Dreamz - Live",
+      "artist": "J. Cole",
+      "has_synced": true,
+      "path": "select/03_Wet_Dreamz_-_Live_J._Cole.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Wet Dreamz",
+      "artist": "J. Cole",
+      "has_synced": true,
+      "path": "select/04_Wet_Dreamz_J._Cole.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Wet Dreamz",
+      "artist": "Sevyn Streeter feat. Jeremih",
+      "has_synced": false,
+      "path": "select/05_Wet_Dreamz_Sevyn_Streeter_feat._Jeremih.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Wet Dreamz",
+      "artist": "Sevyn Streeter & Jeremih",
+      "has_synced": false,
+      "path": "select/06_Wet_Dreamz_Sevyn_Streeter_&_Jeremih.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "J. Cole - Wet Dreamz",
+      "artist": "J. Cole",
+      "has_synced": true,
+      "path": "select/07_J._Cole_-_Wet_Dreamz_J._Cole.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Wet Dreamz",
+      "artist": "J. Cole",
+      "has_synced": true,
+      "path": "select/08_Wet_Dreamz_J._Cole.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Wet Dreamz",
+      "artist": "J. Cole",
+      "has_synced": true,
+      "path": "select/09_Wet_Dreamz_J._Cole.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "J. Cole - Wet Dreamz",
+      "artist": "J. Cole",
+      "has_synced": true,
+      "path": "select/10_J._Cole_-_Wet_Dreamz_J._Cole.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Wet Dreamz Interlude",
+      "artist": "Sevyn Streeter",
+      "has_synced": false,
+      "path": "select/11_Wet_Dreamz_Interlude_Sevyn_Streeter.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Wet Dreamz",
+      "artist": "Bas/ J. Cole",
+      "has_synced": true,
+      "path": "select/12_Wet_Dreamz_Bas__J._Cole.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Wet Dreamz",
+      "artist": "J. Cole",
+      "has_synced": true,
+      "path": "select/13_Wet_Dreamz_J._Cole.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Wet Dreamz",
+      "artist": "J. Cole",
+      "has_synced": false,
+      "path": "select/14_Wet_Dreamz_J._Cole.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Wet Dreamz",
+      "artist": "Sevyn Streeter",
+      "has_synced": true,
+      "path": "select/15_Wet_Dreamz_Sevyn_Streeter.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Wet Dreamz",
+      "artist": "J.Cole",
+      "has_synced": false,
+      "path": "select/pl_01_Wet_Dreamz_J.Cole.txt"
+    }
+  ]
+}
